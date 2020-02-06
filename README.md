@@ -4,7 +4,7 @@ Comp 303 Computer Architecture - Term Project
 
 ### Team Members:
 
-Arda Duman- @ard6
+Arda Duman- [@ard6](https://github.com/ard6)
 
 Arjin Renas Akgül-
   
