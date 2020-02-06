@@ -2,7 +2,7 @@
 Comp 303 Computer Architecture - Term Project
 
 
-# Team Members:
+### Team Members:
 
 Arda Duman- @ard6
 
