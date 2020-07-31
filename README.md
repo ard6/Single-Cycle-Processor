@@ -6,5 +6,5 @@ Comp 303 Computer Architecture - Term Project
 
 Arda Duman- [@ard6](https://github.com/ard6)
 
-Arjin Renas Akgül-
+Arjin Renas Akgül- [@arjinakgul] (https://github.com/arjinakgul)
   
